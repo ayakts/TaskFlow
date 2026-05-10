@@ -1,2 +1,2 @@
 # TaskFlow
-Mon premier projet
+Système de gestion de projets collaboratifs
